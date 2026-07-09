@@ -4,8 +4,8 @@
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
-char ssid[] = "Galaxy A12 A2AA";
-char pass[] = "yapn8271";
+char ssid[] = "XXXX";
+char pass[] = "xxxx";
 #define LED 2
 
 BLYNK_WRITE(V0)   // When button pressed in app
