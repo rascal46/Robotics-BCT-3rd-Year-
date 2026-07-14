@@ -2,8 +2,8 @@
 #include <HTTPClient.h>
 #include <DHT.h>
 
-const char* ssid = "moupia";
-const char* password = "abcdefgh";
+const char* ssid = "XXXX";
+const char* password = "xxxx";
 
 String apiKey = "CPQIXBZZYDDZ31W8";    
 const char* server = "http://api.thingspeak.com/update";
