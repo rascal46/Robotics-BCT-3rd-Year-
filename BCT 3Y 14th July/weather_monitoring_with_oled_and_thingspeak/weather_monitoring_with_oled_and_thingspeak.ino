@@ -13,8 +13,8 @@
 Adafruit_SH1106G display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
 // ------------ WiFi ------------
-const char* ssid = "moupia";
-const char* password = "abcdefgh";
+const char* ssid = "XXXXX";
+const char* password = "xxxxx";
 
 // ------------ ThingSpeak ------------
 String apiKey = "YOUR_WRITE_API_KEY";
