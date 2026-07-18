@@ -7,8 +7,8 @@
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-const char* ssid = "Galaxy A12 A2AA";
-const char* pass = "yapn8271"; 
+const char* ssid = "XXXXX";
+const char* pass = "xxxxxx"; 
 
 #define MQ2_PIN 34
 
